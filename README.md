@@ -1,5 +1,5 @@
 # Git - The Simple Guide
 
-http://rogerdudler.github.com/git-guide/
+https://dilorc2.github.io/gitworkflow.github.io/
 
 # gitworkflow.github.io
