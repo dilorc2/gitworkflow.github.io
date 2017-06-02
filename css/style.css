@@ -149,22 +149,22 @@ code {
 
 .tower {
     display: block;
-    width: 180px;
-    height: 260px;
+    width: 275px;
+    height: 275px;
     position: absolute;
     top: 330px;
     right: 0;
-    background: #FFF url(../img/git-tower.png) no-repeat;
+    background: #FFF url(../img/PowerPoint.png) no-repeat;
 }
 
 .cheatsheet {
     display: block;
-    width: 180px;
-    height: 250px;
+    width: 275px;
+    height: 275px;
     position: absolute;
     top: 346px;
     left: 0;
-    background: #FFF url(../img/cheatsheet.png) no-repeat;
+    background: #FFF url(../img/PDF-Icon.png) no-repeat;
 }
 
 .announcement {
